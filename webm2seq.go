@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"github.com/jacereda/webm-go/webm"
+	"github.com/jacereda/webm"
 	"flag"
 	"fmt"
 	"image"
